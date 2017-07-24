@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class kk{
+public static void main(String[]args){
+int a;
+Scanner s=new Scanner(system.in);
+if(a==0){
+System.out.println("it is zero");
+}
+if(a<0){
+System.out.println("it is negative");
+}
+if(a>0){
+System.out.println("it is positive");}
+}}
